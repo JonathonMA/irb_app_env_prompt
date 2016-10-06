@@ -1,0 +1,11 @@
+inherit_from:
+- https://everydayhero.github.io/styleguide/rubocop.yml
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/RescueModifier:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
